@@ -1,0 +1,7 @@
+name: ReallifeSystem
+version: 1.0
+author: ChrisByte + Castordog
+main: de.lolmiCastHD.Reallife.Main.Main
+
+commands:
+  archievments:
